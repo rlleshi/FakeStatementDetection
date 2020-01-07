@@ -1,2 +1,2 @@
-# Research Lab: Fake Statement Detection
-Research Lab WS1920, Content analysis for detecting fake statements
+# Research Lab: Sticky Fake News
+Research Lab WS1920, Sticky Fake News: A study on dissipation and sentiment.
