@@ -10,7 +10,7 @@ We perform a study on the differential diffusion of fake political and gossip ne
 
 # Report Paper
 A complete explanation may be found in our report document sheet below:
-Link Paper <a href = "https://drive.google.com/file/d/1SwDzhCQDBWdSt3E10e5UUxYx1dDolnDt/view?usp=sharing>"here</a>.
+[Paper](https://drive.google.com/file/d/1SwDzhCQDBWdSt3E10e5UUxYx1dDolnDt/view?usp=sharing)
 
 # Dataset
-The dataset cannot be published due to Twitter's policy rules and news publisher copyrights. Link to the git repository of the dataset utilized here: https://github.com/KaiDMML/FakeNewsNet
+The dataset cannot be published due to Twitter's policy rules and news publisher copyrights. Link to the git repository of the dataset utilized [here](https://github.com/KaiDMML/FakeNewsNet)
